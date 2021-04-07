@@ -1,6 +1,6 @@
 package Hiber.entity;
 // Generated 10.02.2021 11:59:12 by Hibernate Tools 4.3.1
-// 
+// branch2
 
 import java.util.Date;
 import java.util.List;
